@@ -1,0 +1,6 @@
+CONTAINER ID   IMAGE         COMMAND                  CREATED         STATUS                  PORTS                                       NAMES
+3e38bcd76479   sampleapp     "/bin/sh -c 'python3…"   5 minutes ago   Up 5 minutes            0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+918886fdc84e   hello-world   "/hello"                 5 days ago      Exited (0) 5 days ago                                               magical_wu
+c90f8fffbecf   hello-world   "/hello"                 5 days ago      Exited (0) 5 days ago                                               laughing_napier
+54322230a2b1   hello-world   "/hello"                 6 days ago      Exited (0) 6 days ago                                               relaxed_payne
+a04284c0f4d3   hello-world   "/hello"                 7 days ago      Exited (0) 7 days ago                                               stoic_brahmagupta
